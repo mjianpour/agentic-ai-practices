@@ -54,6 +54,7 @@ langchain-core==1.6.6
 langchain-deepseek==1.1.1
 langchain-openai==1.6.7
 langchain-protocol==0.0.19
+langchainhub==0.1.21
 langgraph==1.2.12
 langgraph-checkpoint==4.2.0
 langgraph-prebuilt==1.1.0
@@ -71,7 +72,7 @@ notebook_shim==0.2.4
 openai==3.24.0
 orjson==3.12.0
 ormsgpack==1.12.2
-packaging==26.3
+packaging==24.2
 pandocfilters==1.5.1
 parso==0.8.7
 pexpect==4.9.0
@@ -111,6 +112,7 @@ tinycss2==1.5.1
 tornado==6.5.10
 traitlets==5.16.1
 truststore==0.10.4
+types-requests==2.33.0.20261006
 typing-inspection==0.4.4
 typing_extensions==4.16.0
 tzdata==2026.5
